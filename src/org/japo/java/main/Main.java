@@ -1,5 +1,5 @@
 /* 
- * Copyright 2020 alienware.
+ * Copyright 2020 Luis Alejandro Rodriguez - luisalejandro.rodirguez.alum@iescamp.es
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -21,7 +21,6 @@ package org.japo.java.main;
 public class Main {
     
     public static void main(String[] args) {
-        
  
     }
     
