@@ -16,7 +16,6 @@
 package org.japo.java.main;
 /**
  *
- * @author Luis Alejandro Rodriguez - luisalejandro.rodirguez.alum@iescamp.es
  */
 public class Main {
     
