@@ -16,7 +16,7 @@
 package org.japo.java.main;
 /**
  *
- * @author CicloM
+ * @author Luis Alejandro Rodriguez - luisalejandro.rodirguez.alum@iescamp.es
  */
 public class Main {
     
